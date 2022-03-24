@@ -1,0 +1,1 @@
+Practicing the window load jquery property for a technical assessment.
